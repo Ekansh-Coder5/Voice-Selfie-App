@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 247, 255);
+}
+#but
+{
+    background-color: rgb(96, 217, 221);
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(0, 255, 221);
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+#div1
+{
+    background-color: blue;
+}
